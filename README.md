@@ -42,6 +42,7 @@ You can download the latest version of the IOTA VM Installer Image here: [Releas
 - Open VirtualBox
 - Now select the new VM in the list on the left
 - Click "Start"
+- Please note, if the virtual machine borrows your mouse/keyboard, simply press the 'host' button to return control to your main operating system. By default it's Right Control on Windows/Linux and Right Command on Mac. The virtual machine will tell you what button it is in the bottom right corner when it is running.
 - In VirtualBox, click the little USB icon on the bottom right and select the Ledger from the menu. This allows the VM to access the Ledger.<br>
 ![USB Settings](resources/vbox_usb.png)
 - Wait until the VM starts downloading the app
